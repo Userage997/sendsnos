@@ -63,9 +63,9 @@ document.addEventListener('DOMContentLoaded', function() {
     function startCounterAnimation() {
         // Финальные значения счетчиков
         const finalValues = {
-            projects: 12,
-            community: 850,
-            knowledge: 47
+            projects: 2,
+            community: 5000+,
+            knowledge: 300+
         };
         
         // Скорость анимации
